@@ -12,6 +12,10 @@ class Boundary extends Component {
     this.state = {
       hasError: false
     };
+
+    this.state = {
+      hasSuccess: true
+    }
   }
 
 

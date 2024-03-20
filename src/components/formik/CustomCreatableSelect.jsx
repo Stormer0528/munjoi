@@ -41,9 +41,9 @@ const CustomCreatableSelect = (props) => {
         isMulti={isMulti}
         placeholder={placeholder}
         name={field.name}
-        onChange={handleChange}
-        onKeyDown={handleKeyDown}
-        defaultValue={defaultValue}
+        // onChange={handleChange}
+        // onKeyDown={handleKeyDown}
+        // defaultValue={defaultValue}
         options={options}
         instanceId={iid}
         styles={{

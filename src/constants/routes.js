@@ -21,3 +21,6 @@ export const CHECKOUT_STEP_1 = "/checkout/step1";
 export const CHECKOUT_STEP_2 = "/checkout/step2";
 export const CHECKOUT_STEP_3 = "/checkout/step3";
 export const VIEW_PRODUCT = "/product/:id";
+export const CHECK_PRODUCT_1 = "/product/check1";
+export const CHECK_PRODUCT_2 = "/product/check2";
+export const CHECK_PRODUCT_3 = "/product/check3";
